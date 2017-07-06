@@ -2,6 +2,10 @@ package simplecode;
 
 import org.bytedeco.javacpp.opencv_core.IplImage;
 
+
+/**
+test
+**/
 public interface BaseType {
 	/**处理
 	 * @param src
